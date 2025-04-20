@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>¿Cómo encontrarnos?</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #00FF00;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px 20px;
+    }
+    h1 {
+      font-size: 2em;
+      margin-bottom: 40px;
+    }
+    a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #00FF00;
+      text-decoration: none;
+      font-size: 1.2em;
+      margin: 20px 0;
+    }
+    a img {
+      margin-right: 10px;
+      width: 30px;
+      height: 30px;
+    }
+  </style>
+</head>
+<body>
+  <h1>¿Cómo encontrarnos?</h1>
+
+  <a href="https://www.tiktok.com/@textilsmed" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg" alt="TikTok">TIKTOK
+  </a>
+
+  <a href="https://textils-med.jimdosite.com/contactame/#" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Web_icon.svg" alt="Sitio Web">Página web
+  </a>
+
+  <a href="mailto:textils.med@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail">E-mail
+  </a>
+
+  <a href="https://wa.me/34611683243" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Whatsapp">Whatsapp
+  </a>
+
+  <a href="https://maps.app.goo.gl/SWHboAaEWkTTZhhX7" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Map_pin_icon.svg" alt="Mapa">Ubicación
+  </a>
+</body>
+</html>
